@@ -1,32 +1,30 @@
-# Web Development
+# Tennis Game
 
-Hello Everyone! Welcome to my GitHub repo 'Web Development'.
+Hello Everyone! Welcome to my GitHub repo 'Tennis Game'. I created this simple tennis game using JavaScript.
 
-## Contents of this Repo
+## How to Open It?
 
-In this repo, I will be storing all of my web development projects. The projects are as follows:
+You can download the code, and open the `index.html` file. While downloading the code, keep all the files in the same directory.
 
-### Tennis Game
+## How to Play It?
 
-This is my only project right now in the repository. You can open up the 'Tennis Game' folder and download the 3 files. While downloading, keep all of them in the same directory.
+The left paddle is you and the right one is the computer. It's a simple game of Tennis.
 
-After downloading, click on the `index.html` file and it opens up the game.
-
-On the left is you and on the right, it's the computer playing. It's a simple game of Tennis. You are moving the paddle on the left (which is yours) with your mouse. When the opponent doesn't hit the ball, you get a point. Your score is shown on the top. Whoever reaches 15 first wins!
+You can move your paddle with your mouse, but the mouse should always be in the black canvas. When the opponent doesn't hit the ball, you get a point and vice-versa. Your's and the computer's score will be show at the top. Whoever reaches 15 first wins!
 
 ## Can You Use It?
 
 Yes, you can download this repo and use it for your own purposes.
 
-You have the right to download, modify, and share it to others. One thing that I don't want you to do is to sell this software to anyone.
+You have the right to download, modify, and share it to others. But you can't sell it to anyone!
 
 ## Issues & Bugs
 
-If you encounter any issues or bugs, you can visit the 'Issues' tab in my repository and create an issue. I will immediately look into it and resolve as soon as possible.
+If you encounter any issues or bugs, you can visit the 'Issues' tab in my repository and create an issue. I will immediately look into it and resolve it ASAP.
 
 ## Any Doubts or Questions
 
-If you have any doubts or questions, you are always free to ask me. I will be available on Quora (quora.com/profile/Aniketh-Chavare-1), Twitter (twitter.com/anikethchavare), and Discord (AnikethC#6392).
+If you have any doubts or questions, you are always free to ask me. I will be available on Twitter (twitter.com/anikethchavare) and Discord (AnikethC#6392).
 
 ## Conclusion
 
