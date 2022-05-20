@@ -16,7 +16,7 @@ You can move your paddle with your mouse, but the mouse should always be in the 
 
 Yes, you can download this repo and use it for your own purposes.
 
-You have the right to download, modify, and share it to others. But you can't sell it to anyone!
+You have the right to download, modify, and share it to others.
 
 ## Issues & Bugs
 
@@ -24,7 +24,7 @@ If you encounter any issues or bugs, you can visit the 'Issues' tab in my reposi
 
 ## Any Doubts or Questions
 
-If you have any doubts or questions, you are always free to ask me. I will be available on Twitter (twitter.com/anikethchavare) and Discord (AnikethC#6392).
+If you have any doubts or questions, you are always free to ask me. I will be available on [Twitter](https://twitter.com/anikethchavare) and Discord (Aniketh#6387).
 
 ## Conclusion
 
